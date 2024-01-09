@@ -1,0 +1,1 @@
+git pull로 받고 수정 사항을 다시 git push해서 올린다.
