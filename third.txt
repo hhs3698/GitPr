@@ -1,0 +1,2 @@
+세번 째 merge를 할 때 
+git merge --squash 브랜치명 옵션을 사용함 
